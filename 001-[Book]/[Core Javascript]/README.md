@@ -2,7 +2,6 @@
 
 ![Core Javascript](image/core javascript.png)
 
-
 ## Date : 2022-08-31 ~
 
 ### 01 | 데이터 타입
