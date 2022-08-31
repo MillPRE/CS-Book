@@ -1,6 +1,6 @@
 # [Core Javascript]
 
-![Core Javascript](image/core javascript.png)
+![image](./image/core javascript.png)
 
 ## Date : 2022-08-31 ~
 
